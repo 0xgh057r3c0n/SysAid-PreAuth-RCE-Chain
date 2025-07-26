@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://www.tomer-gilat.com/wp-content/uploads/2023/12/SysAid-Logo-white-512w.png]" width="300px" alt="SysAid Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/SysAid_Logo.svg/320px-SysAid_Logo.svg.png" width="250px" alt="SysAid Logo">
 </p>
+
 
 <h1 align="center">SysAid Pre-Auth RCE Chain Exploit</h1>
 
