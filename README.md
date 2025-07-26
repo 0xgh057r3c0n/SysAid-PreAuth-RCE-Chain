@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SysAid_Logo.svg" width="250px" alt="SysAid Logo">
+  <img src="logo.png" width="250px" alt="SysAid Logo">
 </p>
 
 <h1 align="center">SysAid Pre-Auth RCE Chain Exploit</h1>
