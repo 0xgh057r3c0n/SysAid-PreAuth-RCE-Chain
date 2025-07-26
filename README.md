@@ -5,7 +5,7 @@
 <h1 align="center">SysAid Pre-Auth RCE Chain Exploit</h1>
 
 <p align="center">
-  <strong>🔥 CVE-2025-2775 → CVE-2025-2778 RCE Chain</strong><br>
+  <strong>🔥  CVEs: [CVE-2025-2775, CVE-2025-2776, CVE-2025-2777, CVE-2025-2778] </strong><br>
   🧑‍💻 Author: <strong>0xgh057r3c0n</strong> | 🔬 Research: <strong>@SinSinology</strong> & <strong>@watchTowrcyber</strong><br>
   <a href="https://github.com/0xgh057r3c0n/SysAid-PreAuth-RCE-Chain/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/0xgh057r3c0n/SysAid-PreAuth-RCE-Chain?style=flat-square" alt="MIT License">
